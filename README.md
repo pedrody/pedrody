@@ -19,7 +19,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-122f2b?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
+![:us: English (Intermediate)](https://img.shields.io/badge/English-122f2b?&label=Intermediate&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 
 
 ##
