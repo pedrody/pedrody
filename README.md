@@ -15,7 +15,7 @@
 
 ![pedrody GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrody&show_icons=true&theme=gotham)
 
-## Linguagens e Ferramentas
+## Habilidades
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
