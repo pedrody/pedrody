@@ -4,7 +4,6 @@
   Olá 👋, Eu sou o Pedro Azevedo!
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-azevedo-66812024b/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-122f2b?style=for-the-badge&logo=&logoColor=#FF7139)](https://pedrody.github.io/portfolio/)
 
   - 🌱 Atualmente estou cursando **Superior de Tecnologia em Cibersegurança**.
 
