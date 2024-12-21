@@ -9,7 +9,7 @@
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego na área em que estudo.
 
-  - 📚 Além da faculdade, estou sempre fazendo cursos adicionais para aprimorar ainda mais meus conhecimentos. Confira todos os cursos que concluí visitando meu perfil no [LinkedIn](https://www.linkedin.com/in/pedro-azevedo-66812024b/).
+  - 📚 Além da faculdade, estou sempre estudando algo por conta própria para aprimorar ainda mais meus conhecimentos. Confira o que estou estudando e criando visitando meu perfil no [LinkedIn](https://www.linkedin.com/in/pedro-azevedo-66812024b/).
 </p>
 
 ![pedrody GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrody&show_icons=true&theme=gotham)
